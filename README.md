@@ -6,7 +6,7 @@ Aplikasi prakiraan cuaca modern berbasis Android yang dibangun menggunakan **Jet
 
 | Main Weather Screen | Search Suggestion | Error State |
 |:---:|:---:|:---:|
-| ![Main Screen](https://via.placeholder.com/200x400?text=Main+Weather) | ![Search](https://via.placeholder.com/200x400?text=Search+City) | ![Error](https://via.placeholder.com/200x400?text=Error+State) |
+| ![Main Screen](screenshots/main%20screen.png) | ![Search](screenshots/search.png) | ![Error](screenshots/error%20state.png) |
 
 > *Catatan: Silakan ganti placeholder di atas dengan screenshot asli dari folder `screenshots/` Anda.*
 
