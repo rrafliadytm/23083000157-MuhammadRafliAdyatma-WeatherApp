@@ -1,4 +1,4 @@
-# Weather Forecast App - Muhammad Rafli Adyatma
+# 📱 Project Week 5: Weather App ✨
 
 Aplikasi prakiraan cuaca modern berbasis Android yang dibangun menggunakan **Jetpack Compose**. Aplikasi ini memungkinkan pengguna untuk mencari cuaca di berbagai kota dengan data real-time, menampilkan ramalan cuaca 7 hari ke depan dengan antarmuka yang bersih dan interaktif.
 
